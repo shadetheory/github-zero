@@ -2,7 +2,7 @@
     "name": "jordanpartridge/github-zero",
     "description": "Lightweight GitHub CLI that works standalone, in Laravel, Laravel Zero, or as a Conduit extension",
     "keywords": ["github", "cli", "laravel", "laravel-zero", "conduit", "conduit-extension", "git"],
-    "homepage": "https://github.com/jordanpartridge/github-zero",
+    "homepage": "https://github.com/shadetheory/github-zero",
     "license": "MIT",
     "type": "library",
     "authors": [
